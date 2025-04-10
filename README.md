@@ -1,5 +1,6 @@
 # TaskDrops 💧  
-*A tactile goal tracker where tasks behave like liquid droplets - drag, complete, and visualize progress.*
+*A tactile goal tracker where tasks behave like liquid droplets - drag, complete, and visualize progress.*  
+A visual task manager with draggable droplets 🎯 Double-click to complete, drag to trash, and track progress with animations!
 
 ## ✨ Features  
 - **Interactive droplets**: Drag goals like water droplets  
