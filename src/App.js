@@ -228,22 +228,22 @@ function App() {
   const themeOptions = [
     {
       label: 'Air',
-      value: '/images/air-theme.jpg',
+      value: process.env.PUBLIC_URL + '/images/air-theme.jpg',
       type: 'image',
     },
     {
       label: 'Water',
-      value: '/images/water-theme.jpg',
+      value:  process.env.PUBLIC_URL + '/images/water-theme.jpg',
       type: 'image',
     },
     {
       label: 'Fire',
-      value: '/images/fire-theme.jpg',
+      value: process.env.PUBLIC_URL + '/images/fire-theme.jpg',
       type: 'image',
     },
     {
       label: 'Earth',
-      value: '/images/earth-theme.jpg',
+      value: process.env.PUBLIC_URL + '/images/earth-theme.jpg',
       type: 'image',
     },
   ];

@@ -18,12 +18,17 @@ body {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  background-color: #2c3e50 !important; /* Fallback solid color with higher specificity */
+  background-color: #2c3e50; /* Fallback solid color with higher specificity */
 }
 
 /* Apply fallback image only for image-based themes */
 .App[data-background-type="image"] {
   background-image: url('https://images.unsplash.com/photo-1507521628349-6e9b8033b7d2?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80'); /* Fallback image */
+}
+
+.App[data-background-type="color"] {
+  background-color: inherit; /* Inherit the inline style's background */
+  background-image: none !important; /* Remove any background image */
 }
 
 /* Adjust background for smaller screens (mobile) */
