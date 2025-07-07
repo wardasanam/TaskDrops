@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TaskDrops/static/css/main.14f8e84c.css",
+    "main.js": "/TaskDrops/static/js/main.f9d0ca31.js",
+    "static/js/453.7b4a0762.chunk.js": "/TaskDrops/static/js/453.7b4a0762.chunk.js",
+    "index.html": "/TaskDrops/index.html",
+    "main.14f8e84c.css.map": "/TaskDrops/static/css/main.14f8e84c.css.map",
+    "main.f9d0ca31.js.map": "/TaskDrops/static/js/main.f9d0ca31.js.map",
+    "453.7b4a0762.chunk.js.map": "/TaskDrops/static/js/453.7b4a0762.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14f8e84c.css",
+    "static/js/main.f9d0ca31.js"
+  ]
+}
